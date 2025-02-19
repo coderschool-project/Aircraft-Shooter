@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - PlayerBullet
+  - EnemyBullet
+  - Enemy
+  - Coin
   layers:
   - Default
   - TransparentFX
@@ -38,6 +42,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background Layer
+    uniqueID: 334338421
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Top Layer
+    uniqueID: 3016617563
     locked: 0
