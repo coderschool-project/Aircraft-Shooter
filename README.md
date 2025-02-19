@@ -6,7 +6,7 @@ A simple game where you have to shoot aircrafts.
 
 ## Screenshots
 
-![screenshot](https://github.com/coderschool/aircraft-shooter/blob/master/screenshot.png)
+![screenshot](./mainmenu.jpg)
 
 ## Requirements
 
